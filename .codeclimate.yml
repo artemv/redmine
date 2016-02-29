@@ -40,3 +40,9 @@ exclude_paths:
 - db/
 - script/
 - test/
+- public/javascripts/jstoolbar/
+- public/javascripts/jquery-1.11.1-ui-1.11.0-ujs-3.1.4.js
+- lib/plugins/
+- lib/SVG/
+- lib/redcloth3.rb
+
